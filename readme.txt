@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Create a new branch is quick and simple.
 no ff merge test.
+Fix a small bug, so easy.
 I am fixing a whole day bugs...
