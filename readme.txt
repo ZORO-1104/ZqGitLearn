@@ -5,4 +5,4 @@ Git tracks changes of files.
 Create a new branch is quick and simple.
 no ff merge test.
 Fix a small bug, so easy, I can do it.
-I am fixing a whole day bugs...
+fix bugs need 10 days.
