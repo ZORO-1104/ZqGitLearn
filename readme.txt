@@ -6,3 +6,4 @@ Create a new branch is quick and simple.
 no ff merge test.
 Fix a small bug, so easy, I can do it.
 fix bugs need 10 days.
+Fix bugs need 100 days.
